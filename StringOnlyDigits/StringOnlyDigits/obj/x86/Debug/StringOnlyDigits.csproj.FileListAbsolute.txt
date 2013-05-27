@@ -1,0 +1,4 @@
+C:\Users\Cory\Documents\Code Practice\other_practice\StringOnlyDigits\StringOnlyDigits\bin\Debug\StringOnlyDigits.exe
+C:\Users\Cory\Documents\Code Practice\other_practice\StringOnlyDigits\StringOnlyDigits\bin\Debug\StringOnlyDigits.pdb
+C:\Users\Cory\Documents\Code Practice\other_practice\StringOnlyDigits\StringOnlyDigits\obj\x86\Debug\StringOnlyDigits.exe
+C:\Users\Cory\Documents\Code Practice\other_practice\StringOnlyDigits\StringOnlyDigits\obj\x86\Debug\StringOnlyDigits.pdb
